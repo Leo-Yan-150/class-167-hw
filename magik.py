@@ -88,6 +88,7 @@ labelcolors=['snow', 'ghost white', 'white smoke', 'gainsboro', 'floral white', 
           'grey75', 'grey76', 'grey77', 'grey78', 'grey79', 'grey80', 'grey81', 'grey82', 'grey83',
           'grey84', 'grey85', 'grey86', 'grey87', 'grey88', 'grey89', 'grey90', 'grey91', 'grey92',
           'grey93', 'grey94', 'grey95', 'grey97', 'grey98', 'grey99']
+#that was an absoluet pain to type out...
 positions=[0,50,100,150,200,250,300,350,400,450,500,550,600,650,700,750,800]
 combocolor=ttk.Combobox(root, state="r", values=labelcolors, width=10)
 inputsx=ttk.Combobox(root, state="r", values=positions, width=10)
